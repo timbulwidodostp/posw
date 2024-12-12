@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'posw': Stepwise Neyman-orthogonal estimator Use posw With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f naivereg.ado
+f posw.ado
+f posw.sthlp
+f poswbic_gmm_logit.ado
+f poswbic_gmm_pois.ado
+f stepbic.ado
+f steptest.ado
