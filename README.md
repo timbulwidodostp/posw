@@ -3,6 +3,8 @@ Stepwise Neyman-orthogonal estimator Use posw With STATA 18
 
 Partialing-out estimator based on stepwise Bayesian information criterion (BIC) or stepwise testing Use posw With STATA 18
 
+https://www.youtube.com/watch?v=RzMcE9lRFx0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
